@@ -7,3 +7,5 @@ Just guessing, but it looks like a bug in the rotation code, or in the 'settle' 
 If I use the Windows 10 3D Builder to do the 90 degree rotation instead, and then import the updated STL file into PrusaSlicer, everything works.
 
 Chris Shaker
+
+
